@@ -64,7 +64,7 @@ def distribute_books(books, users):
 
     return result
 
-# Сохраняем результат в JSON файл
+# Сохраняем результат в result.json
 def save_result(result):
     with open('result.json', 'w') as file:
         json.dump(result, file, indent=4)
