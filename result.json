@@ -1,0 +1,3754 @@
+[
+    {
+        "name": "Lolita Lynn",
+        "gender": "female",
+        "address": "389 Neptune Avenue, Belfair, Iowa, 6116",
+        "age": 34,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Tonia Hurst",
+        "gender": "female",
+        "address": "917 Terrace Place, Urbana, Idaho, 684",
+        "age": 31,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Brooks Bright",
+        "gender": "male",
+        "address": "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506",
+        "age": 39,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Kathrine Sharp",
+        "gender": "female",
+        "address": "989 Huron Street, Talpa, Utah, 7018",
+        "age": 40,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Shawn Harrell",
+        "gender": "female",
+        "address": "534 Hinsdale Street, Albany, Palau, 3291",
+        "age": 34,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Amy Casey",
+        "gender": "female",
+        "address": "589 Townsend Street, Hiseville, Connecticut, 7082",
+        "age": 31,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Lorena Mejia",
+        "gender": "female",
+        "address": "614 High Street, Blanford, Maryland, 2776",
+        "age": 24,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Allyson Wilkins",
+        "gender": "female",
+        "address": "572 Downing Street, Ivanhoe, American Samoa, 8235",
+        "age": 29,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Mays Reed",
+        "gender": "male",
+        "address": "306 Georgia Avenue, Hall, New Mexico, 1402",
+        "age": 38,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Katherine Mayer",
+        "gender": "female",
+        "address": "640 Prescott Place, Curtice, Kansas, 3395",
+        "age": 27,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Kelly Byers",
+        "gender": "female",
+        "address": "865 Revere Place, Homeland, Arizona, 232",
+        "age": 35,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Schwartz Carey",
+        "gender": "male",
+        "address": "860 Centre Street, Hiwasse, Nevada, 2819",
+        "age": 32,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Kay Beasley",
+        "gender": "female",
+        "address": "358 Sutton Street, Bellamy, Ohio, 8845",
+        "age": 34,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Robbins Gordon",
+        "gender": "male",
+        "address": "610 Langham Street, Boykin, Guam, 6688",
+        "age": 23,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Hillary Bauer",
+        "gender": "female",
+        "address": "951 Cumberland Street, Alleghenyville, Oregon, 7073",
+        "age": 39,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Ruiz Phelps",
+        "gender": "male",
+        "address": "836 Troutman Street, Harborton, Kentucky, 4030",
+        "age": 36,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Carolina Bryant",
+        "gender": "female",
+        "address": "377 Middagh Street, Ellerslie, Nebraska, 2644",
+        "age": 31,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Sosa Lee",
+        "gender": "male",
+        "address": "364 Holly Street, Omar, California, 5140",
+        "age": 31,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Lorna Scott",
+        "gender": "female",
+        "address": "878 Marconi Place, Gerton, Alabama, 845",
+        "age": 24,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Bernard Holden",
+        "gender": "male",
+        "address": "674 Pine Street, Conestoga, Mississippi, 4727",
+        "age": 32,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Craft Shields",
+        "gender": "male",
+        "address": "586 Java Street, Catherine, Arkansas, 1445",
+        "age": 31,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Mara English",
+        "gender": "female",
+        "address": "324 Herkimer Court, Boomer, Delaware, 5367",
+        "age": 23,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Fisher Levy",
+        "gender": "male",
+        "address": "540 Adler Place, Hachita, Federated States Of Micronesia, 9894",
+        "age": 30,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Cecelia Snyder",
+        "gender": "female",
+        "address": "236 Anchorage Place, Odessa, Michigan, 6314",
+        "age": 25,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Nina Kaufman",
+        "gender": "female",
+        "address": "538 Ashford Street, Boling, West Virginia, 7840",
+        "age": 22,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Dillard Branch",
+        "gender": "male",
+        "address": "225 Hampton Avenue, Bethany, Pennsylvania, 8056",
+        "age": 37,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Dyer Bartlett",
+        "gender": "male",
+        "address": "880 Meadow Street, Seymour, Puerto Rico, 7921",
+        "age": 33,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    },
+    {
+        "name": "Tyler Dotson",
+        "gender": "male",
+        "address": "220 Herkimer Place, Turpin, Oklahoma, 4468",
+        "age": 20,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": 228,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": 235,
+                "genre": "data_science"
+            },
+            {
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": 197,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Superfreakonomics",
+                "author": "Dubner, Stephen",
+                "pages": 179,
+                "genre": "economics"
+            },
+            {
+                "title": "Orientalism",
+                "author": "Said, Edward",
+                "pages": 197,
+                "genre": "history"
+            },
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Vapnik, Vladimir",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Integration of the Indian States",
+                "author": "Menon, V P",
+                "pages": 217,
+                "genre": "history"
+            },
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Mlodinow, Leonard",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Shih, Frank",
+                "pages": 241,
+                "genre": "signal_processing"
+            },
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "Konnikova, Maria",
+                "pages": 240,
+                "genre": "psychology"
+            },
+            {
+                "title": "Data Scientists at Work",
+                "author": "Sebastian Gutierrez",
+                "pages": 230,
+                "genre": "data_science"
+            },
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Vonnegut, Kurt",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Birth of a Theorem",
+                "author": "Villani, Cedric",
+                "pages": 234,
+                "genre": "mathematics"
+            },
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Sussman, Gerald",
+                "pages": 240,
+                "genre": "computer_science"
+            },
+            {
+                "title": "Age of Wrath, The",
+                "author": "Eraly, Abraham",
+                "pages": 238,
+                "genre": "history"
+            },
+            {
+                "title": "Trial, The",
+                "author": "Kafka, Frank",
+                "pages": 198,
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Pratt, John",
+                "pages": 236,
+                "genre": "data_science"
+            },
+            {
+                "title": "Data Mining Handbook",
+                "author": "Nisbet, Robert",
+                "pages": 242,
+                "genre": "data_science"
+            },
+            {
+                "title": "New Machiavelli, The",
+                "author": "Wells, H. G.",
+                "pages": 180,
+                "genre": "fiction"
+            },
+            {
+                "title": "Physics & Philosophy",
+                "author": "Heisenberg, Werner",
+                "pages": 197,
+                "genre": "science"
+            },
+            {
+                "title": "Making Software",
+                "author": "Oram, Andy",
+                "pages": 232,
+                "genre": "computer_science"
+            }
+        ]
+    }
+]
